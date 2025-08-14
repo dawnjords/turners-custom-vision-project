@@ -36,7 +36,7 @@ function CarPredictor() {
   };
 
   return (
-    <div className="max-w-2xl mx-auto">
+    <div className="max-w-4xl mx-auto">
       <div className="rounded-lg border bg-white p-4 space-y-4">
         <h3 className="block text-sm font-medium">
           Upload an image of your vehicle here
